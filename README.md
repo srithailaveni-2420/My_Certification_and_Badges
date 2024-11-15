@@ -28,7 +28,7 @@
 </table>
 
 
-
+<br><br>
 
 <!DOCTYPE html>
 <html lang="en">
@@ -41,7 +41,7 @@
 
    <h3 style="text-align: center; margin-top: 20px;">Microsoft Certifications for Data Analysts and Data Scientists</h3>
 
-   <img src="" alt="Description" width="100%" height="200px">
+ 
 
 
    <table>
