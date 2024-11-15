@@ -90,7 +90,9 @@
                 <td><span class="stars">⭐</span></td>
                 <td><a href="https://learn.microsoft.com/en-us/credentials/certifications/power-platform-fundamentals/?practice-assessment-type=certification">Exam PL-900</a></td>
             </tr>
-            <tr>
+
+            
+   <tr>
                 <td class="level">Associate</td>
                 <td>Microsoft Certified: Azure Data Engineer Associate</td>
                 <td>Data Engineer</td>
@@ -100,28 +102,27 @@
             </tr> <br>
             <tr>
                 <td class="level">Associate</td>
-                <td>Microsoft Certified: Azure Machine Learning Associate</td>
+                <td>Microsoft Certified: Azure Data Scientist Associate</td>
                 <td>Data Scientist / ML Engineer</td>
-                <td>Focuses on designing and implementing machine learning solutions on Azure, including model training and deployment.</td>
+                <td>Certification validating expertise in applying data science techniques and machine learning on Azure.</td>
                 <td><span class="stars">⭐⭐</span></td>
                 <td><a href="https://learn.microsoft.com/en-us/certifications/exams/dp-100">Exam DP-100</a></td>
-            </tr>
-           
-  <tr>
+            </tr>  
+            <tr>
                 <td class="level">Associate</td>
-                <td>Microsoft Certified: Power BI Data Analyst</td>
+                <td>Microsoft Certified: Power BI Data Analyst Associate</td>
                 <td>Power BI Developer</td>
                 <td>Focuses on building business intelligence (BI) solutions using Power BI, including data modeling and creating reports.</td>
                 <td><span class="stars">⭐⭐</span></td>
-                <td><a href="https://learn.microsoft.com/en-us/certifications/exams/da-100">Exam DA-100</a></td>
+                <td><a href="https://learn.microsoft.com/en-us/credentials/certifications/data-analyst-associate/?practice-assessment-type=certification">Exam PL-300</a></td>
             </tr>
             <tr>
                 <td class="level">Associate</td>
-                <td>Microsoft Certified: Microsoft Fabric Data Analyst</td>
+                <td>Microsoft Certified: Fabric Analytics Engineer Associate</td>
                 <td>Data Analyst / Fabric User</td>
                 <td>Focuses on using Microsoft Fabric to build, prepare, and analyze data, as well as create reports and dashboards.</td>
                 <td><span class="stars">⭐⭐</span></td>
-                <td><a href="https://learn.microsoft.com/en-us/certifications/exams/fabric-da">Exam Fabric DA</a></td>
+                <td><a href="https://learn.microsoft.com/en-us/credentials/certifications/fabric-analytics-engineer-associate/?practice-assessment-type=certification">Exam Fabric DP-600</a></td>
             </tr>
 
    
