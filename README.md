@@ -127,11 +127,11 @@
 
    
   <tr>
-                <td class="level">Expert</td>
+                <td class="level">Associate</td>
                 <td>Microsoft Certified: Azure AI Engineer Associate</td>
                 <td>AI Engineer</td>
                 <td>Focus on deploying and maintaining AI solutions, including natural language processing and computer vision.</td>
-                <td><span class="stars">⭐⭐⭐</span></td>
+                <td><span class="stars">⭐⭐</span></td>
                 <td><a href="https://learn.microsoft.com/en-us/certifications/exams/ai-102">Exam AI-102</a></td>
             </tr>
             
