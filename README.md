@@ -58,6 +58,14 @@
         <tbody>
          <tr>
                 <td class="level">Fundamentals</td>
+                <td>Microsoft Certified: Azure Fundamentals</td>
+                <td>Data Analyst / Data Engineer</td>
+                <td>Introduction to core Fundamental concepts and how they are implemented using Microsoft Azure.</td>
+                <td><span class="stars">⭐</span></td>
+                <td><a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/?practice-assessment-type=certification">Exam AZ-900</a></td>
+            </tr>
+         <tr>
+                <td class="level">Fundamentals</td>
                 <td>Microsoft Certified: Azure Data Fundamentals</td>
                 <td>Data Analyst / Data Engineer</td>
                 <td>Introduction to core data concepts and how they are implemented using Microsoft Azure.</td>
@@ -75,12 +83,12 @@
 
          
   <tr>
-                <td class="level">Associate</td>
-                <td>Microsoft Certified: Data Analyst Associate</td>
+                <td class="level">Fundamentals</td>
+                <td>Microsoft Certified: Power Platform Fundamentals</td>
                 <td>Data Analyst</td>
-                <td>Focuses on analyzing and visualizing data using Power BI, preparing you for a career as a data analyst.</td>
-                <td><span class="stars">⭐⭐</span></td>
-                <td><a href="https://learn.microsoft.com/en-us/certifications/exams/da-100">Exam DA-100</a></td>
+                <td>Certification validating foundational knowledge of Microsoft Power Platform tools.</td>
+                <td><span class="stars">⭐</span></td>
+                <td><a href="https://learn.microsoft.com/en-us/credentials/certifications/power-platform-fundamentals/?practice-assessment-type=certification">Exam PL-900</a></td>
             </tr>
             <tr>
                 <td class="level">Associate</td>
@@ -89,7 +97,7 @@
                 <td>Focuses on building and managing data solutions in Azure, including data storage, processing, and security.</td>
                 <td><span class="stars">⭐⭐</span></td>
                 <td><a href="https://learn.microsoft.com/en-us/certifications/exams/dp-203">Exam DP-203</a></td>
-            </tr>
+            </tr> <br>
             <tr>
                 <td class="level">Associate</td>
                 <td>Microsoft Certified: Azure Machine Learning Associate</td>
@@ -125,33 +133,11 @@
                 <td><span class="stars">⭐⭐⭐</span></td>
                 <td><a href="https://learn.microsoft.com/en-us/certifications/exams/ai-102">Exam AI-102</a></td>
             </tr>
-            <tr>
-                <td class="level">Expert</td>
-                <td>Microsoft Certified: Azure Data Scientist Associate</td>
-                <td>Data Scientist</td>
-                <td>Advanced certification focusing on the development and implementation of machine learning models using Azure.</td>
-                <td><span class="stars">⭐⭐⭐</span></td>
-                <td><a href="https://learn.microsoft.com/en-us/certifications/exams/dp-420">Exam DP-420</a></td>
-            </tr>
+            
 
        
-   <tr>
-                <td class="level">Expert</td>
-                <td>Microsoft Certified: Azure Solutions Architect Expert</td>
-                <td>Solutions Architect</td>
-                <td>Advanced certification focused on designing and implementing Azure cloud-based solutions.</td>
-                <td><span class="stars">⭐⭐⭐</span></td>
-                <td><a href="https://learn.microsoft.com/en-us/certifications/exams/az-305">Exam AZ-305</a></td>
-            </tr>
-            <tr>
-                <td class="level">Expert</td>
-                <td>Microsoft Certified: Azure AI Solutions Architect Expert</td>
-                <td>AI Architect</td>
-                <td>Focus on designing AI solutions using Microsoft Azure, including ML, cognitive services, and AI infrastructure.</td>
-                <td><span class="stars">⭐⭐⭐</span></td>
-                <td><a href="https://learn.microsoft.com/en-us/certifications/exams/az-720">Exam AZ-720</a></td>
-            </tr>
-        </tbody>
+   
+   </tbody>
     </table>
 
 </body>
