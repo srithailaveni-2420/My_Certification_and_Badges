@@ -52,7 +52,8 @@
                 <th>Role</th>
                 <th>Description</th>
                 <th>Difficulty</th>
-                <th>Link</th>
+             <th>Link</th>
+             <th>My Certificate</th>
             </tr>
         </thead>
         <tbody>
@@ -63,6 +64,7 @@
                 <td>Introduction to core Fundamental concepts and how they are implemented using Microsoft Azure.</td>
                 <td><span class="stars">⭐</span></td>
                 <td><a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/?practice-assessment-type=certification">Exam AZ-900</a></td>
+                <td> </td>
             </tr>
          <tr>
                 <td class="level">Fundamentals</td>
@@ -71,6 +73,7 @@
                 <td>Introduction to core data concepts and how they are implemented using Microsoft Azure.</td>
                 <td><span class="stars">⭐</span></td>
                 <td><a href="https://learn.microsoft.com/en-us/certifications/exams/dp-900">Exam DP-900</a></td>
+                <td> on progress </td>
             </tr>
             <tr>
                 <td class="level">Fundamentals</td>
@@ -79,6 +82,7 @@
                 <td>Basics of artificial intelligence (AI) and machine learning (ML) services in Azure.</td>
                 <td><span class="stars">⭐</span></td>
                 <td><a href="https://learn.microsoft.com/en-us/certifications/exams/ai-900">Exam AI-900</a></td>
+                <td> </td>
             </tr>
 
          
@@ -89,6 +93,7 @@
                 <td>Certification validating foundational knowledge of Microsoft Power Platform tools.</td>
                 <td><span class="stars">⭐</span></td>
                 <td><a href="https://learn.microsoft.com/en-us/credentials/certifications/power-platform-fundamentals/?practice-assessment-type=certification">Exam PL-900</a></td>
+                <td> on progress </td>
             </tr>
 
             
@@ -99,6 +104,7 @@
                 <td>Focuses on building and managing data solutions in Azure, including data storage, processing, and security.</td>
                 <td><span class="stars">⭐⭐</span></td>
                 <td><a href="https://learn.microsoft.com/en-us/certifications/exams/dp-203">Exam DP-203</a></td>
+                <td> </td>
             </tr> <br>
             <tr>
                 <td class="level">Associate</td>
@@ -107,6 +113,7 @@
                 <td>Certification validating expertise in applying data science techniques and machine learning on Azure.</td>
                 <td><span class="stars">⭐⭐</span></td>
                 <td><a href="https://learn.microsoft.com/en-us/certifications/exams/dp-100">Exam DP-100</a></td>
+              <td> </td>
             </tr>  
             <tr>
                 <td class="level">Associate</td>
@@ -115,6 +122,7 @@
                 <td>Focuses on building business intelligence (BI) solutions using Power BI, including data modeling and creating reports.</td>
                 <td><span class="stars">⭐⭐</span></td>
                 <td><a href="https://learn.microsoft.com/en-us/credentials/certifications/data-analyst-associate/?practice-assessment-type=certification">Exam PL-300</a></td>
+                <td> </td>
             </tr>
             <tr>
                 <td class="level">Associate</td>
@@ -123,6 +131,7 @@
                 <td>Focuses on using Microsoft Fabric to build, prepare, and analyze data, as well as create reports and dashboards.</td>
                 <td><span class="stars">⭐⭐</span></td>
                 <td><a href="https://learn.microsoft.com/en-us/credentials/certifications/fabric-analytics-engineer-associate/?practice-assessment-type=certification">Exam Fabric DP-600</a></td>
+             <td> on progress </td>
             </tr>
 
    
@@ -132,7 +141,8 @@
                 <td>AI Engineer</td>
                 <td>Focus on deploying and maintaining AI solutions, including natural language processing and computer vision.</td>
                 <td><span class="stars">⭐⭐</span></td>
-                <td><a href="https://learn.microsoft.com/en-us/certifications/exams/ai-102">Exam AI-102</a></td>
+                <td><a href="https://learn.microsoft.com/en-us/certifications/exams/ai-102">Exam AI-102</a></td> 
+                <td> </td>
             </tr>
             
 
